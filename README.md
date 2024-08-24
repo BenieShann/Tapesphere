@@ -37,7 +37,7 @@ Clone the Repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/tapesphere.git
+git clone https://github.com/BenieShann/tapesphere.git
 cd tapesphere
 Install Dependencies:
 
