@@ -1,4 +1,6 @@
 TAPESPHERE
+---
+
 Welcome to Tapesphere! This application is designed to help users discover the vibrant culture, local businesses, and unique experiences of Nairobi. Whether you're a resident or a visitor, Tapesphere aims to make it easier for you to navigate and explore the best of what the city has to offer.
 
 Table of Contents
