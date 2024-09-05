@@ -2,6 +2,7 @@ TAPESPHERE
 ---
 
 Welcome to Tapesphere! This application is designed to help users discover the vibrant culture, local businesses, and unique experiences of Nairobi. Whether you're a resident or a visitor, Tapesphere aims to make it easier for you to navigate and explore the best of what the city has to offer.
+---
 
 Table of Contents
 Project Overview
@@ -19,12 +20,13 @@ Tapesphere is a web application that provides an interactive guide to Nairobi's 
 Vision
 To create a comprehensive and user-friendly platform that showcases Nairobi’s vibrant life and makes it easier for users to explore the city.
 
-Goals
+#Goals
 Provide detailed information about local events and businesses.
 Enable users to search for specific places or events.
 Ensure an intuitive and visually appealing interface.
+---
 
-Features
+# Features
 1. Discover Nairobi
 Users can explore different aspects of Nairobi, including cultural events, local businesses, and tourist attractions.
 Includes recommendations and featured events.
